@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/search-crypto-app/static/css/main.fcfe8698.chunk.css",
+    "main.js": "/search-crypto-app/static/js/main.7a168466.chunk.js",
+    "main.js.map": "/search-crypto-app/static/js/main.7a168466.chunk.js.map",
+    "runtime-main.js": "/search-crypto-app/static/js/runtime-main.7cf7415d.js",
+    "runtime-main.js.map": "/search-crypto-app/static/js/runtime-main.7cf7415d.js.map",
+    "static/js/2.6bdfd7d3.chunk.js": "/search-crypto-app/static/js/2.6bdfd7d3.chunk.js",
+    "static/js/2.6bdfd7d3.chunk.js.map": "/search-crypto-app/static/js/2.6bdfd7d3.chunk.js.map",
+    "static/js/3.56a59bb7.chunk.js": "/search-crypto-app/static/js/3.56a59bb7.chunk.js",
+    "static/js/3.56a59bb7.chunk.js.map": "/search-crypto-app/static/js/3.56a59bb7.chunk.js.map",
+    "index.html": "/search-crypto-app/index.html",
+    "static/css/main.fcfe8698.chunk.css.map": "/search-crypto-app/static/css/main.fcfe8698.chunk.css.map",
+    "static/js/2.6bdfd7d3.chunk.js.LICENSE.txt": "/search-crypto-app/static/js/2.6bdfd7d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7cf7415d.js",
+    "static/js/2.6bdfd7d3.chunk.js",
+    "static/css/main.fcfe8698.chunk.css",
+    "static/js/main.7a168466.chunk.js"
+  ]
+}
